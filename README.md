@@ -50,7 +50,7 @@ Send location by pressing a button!
 <img width="1280" alt="Screen_shot_1" src="https://github.com/Nadhakm/TinkHerHack/blob/main/Screenshot - 2.png">
 
 Save the emergency contacts
-<img width="1280" alt="Screen_shot_1" src="https://github.com/Nadhakm/TinkHerHack/blob/main/Screenshot - 2.png">
+<img width="1280" alt="Screen_shot_1" src="https://github.com/Nadhakm/TinkHerHack/blob/main/Screenshot - 3.png">
 
 
 ### Project Demo
