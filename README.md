@@ -46,12 +46,11 @@ For Software:
 The Sign in page
 <img width="1280" alt="Screen_shot_1" src="https://github.com/Nadhakm/TinkHerHack/blob/main/Screenshot - 1.jpg">
 
+Send location by pressing a button!
+<img width="1280" alt="Screen_shot_1" src="https://github.com/Nadhakm/TinkHerHack/blob/main/Screenshot - 2.png">
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+Save the emergency contacts
+<img width="1280" alt="Screen_shot_1" src="https://github.com/Nadhakm/TinkHerHack/blob/main/Screenshot - 2.png">
 
 
 ### Project Demo
