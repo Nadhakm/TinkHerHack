@@ -10,8 +10,6 @@
 - Member 2: Nadha K M - RIT, Kottayam
 - Member 3: Sreelakshmi K - RIT, Kottayam
 
-### Hosted Project Link
-[mention your project hosted project link here]
 
 ### Project Description
 Need help fast? This app lets you send your location to your emergency contacts with just one click! Sign up, store your contacts, and in an emergency, get help on the way through WhatsApp—easy peasy!
@@ -52,14 +50,6 @@ Send location by pressing a button!
 Save the emergency contacts
 <img width="1280" alt="Screen_shot_1" src="https://github.com/Nadhakm/TinkHerHack/blob/main/Screenshot - 3.png">
 
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - Aathira Jayadeep: Content, MongoDB
