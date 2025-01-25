@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emergency Contacts</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="page-header">
+    <h1>SafeTap</h1>
+  </header>
+  <div class="container">
+    <h2>Emergency Contacts</h2>
+    <form id="contact">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="phone">Phone Number:</label>
+      <input type="tel" id="phone" name="phone" required>
+
+      <label for="email-id">Email ID:</label>
+      <input type="email" id="email-id" name="email-id" readonly>
+      <div class="for-button">
+        <button type="submit" class="mini">Save</button>
+        <button type="button" class="mini">Add</button>
+      </div>
+
+    </form>
+  </div>
+</body>
+</html>
